@@ -1,0 +1,56 @@
+div
+{
+margin-top: 6mm;
+margin-bottom: 6mm;
+background-color: cornsilk;
+padding-top: 2mm;
+padding-bottom: 2mm;
+margin-left: 3mm;
+margin-right: 3mm;
+text-indent: 1,5cm;
+}
+
+
+#bal
+{
+width: 70%;
+}
+
+
+#jobb
+{
+text-align: center;
+width: 80%;
+}
+
+
+.piros
+{
+border-right: darkred;
+border-style: double;
+border-right: thick 3mm;
+}
+
+
+.kek
+{
+margin-bottom: 1cm;
+border-left: blueviolet 1mm;
+border-bottom: dashed blue 2mm;
+}
+
+
+.dodger
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: dodgerblue;
+}
+
+
+
+
+
+
+
+
